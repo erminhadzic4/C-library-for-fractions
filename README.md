@@ -45,6 +45,6 @@ C/C++ library for fractions.
   | < | Compares for less than. |
   | >= | Compares for greater than or equal. |   
   | <= | Compares for less than or equal. |     
-  | >> | Overloaded istream operator for inputing. |    
+  | >> | Overloaded istream operator for inputting. |    
   | >> | Overloaded ostream operator for printing. |   
   
