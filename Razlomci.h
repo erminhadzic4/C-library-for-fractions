@@ -60,7 +60,7 @@ int Razlomci::najveciZS(int a, int b) {
 
 void Razlomci::dodjela_vrijednosti (int brojnik1, int nazivnik1) {
 	if (nazivnik1==0) {
-                cerr << "\t\t\t\t\t      Unijeti nazivnik ne valja; ne smije biti jednak nuli" << endl;
+                cerr << "\t\t\t\t\t      Uneseni nazivnik ne valja; ne smije biti jednak nuli" << endl;
                 exit(0);
             } else if (brojnik1 == 0) {
                 brojnik = 0;
